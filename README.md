@@ -1,1 +1,5 @@
-# FrontendIII-test1
+## Para correr el proyecto
+
+`npm install`
+
+`npm run dev`
